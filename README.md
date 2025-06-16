@@ -29,9 +29,9 @@
 ---
 
 ## 🎯 About Me
-🎓 Currently a final-year **B.Tech** student in **Electronics and Instrumentation Engineering** at **NIT Rourkela**.  
-🛠️ Restoring vision, designing perception and guiding robots to understand the world.  
-🦾 My spirit animal is probably a Python script that just compiled without errors.
+- Currently a final-year **B.Tech** student in **Electronics and Instrumentation Engineering** at **NIT Rourkela**.  
+- Restoring vision, designing perception and guiding robots to understand the world.  
+- Happiest when a Python script compiles without errors.
 
 
 
