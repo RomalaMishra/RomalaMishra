@@ -70,14 +70,6 @@
 
 ---
 
-
-## 📊 GitHub Dashboard
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romalamishra&theme=tokyonight)
-
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=romalamishra&label=👀+Stalkers+Detected&color=red" alt="Profile views" />
 </p>
