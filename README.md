@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋 I'm Romala Mishra</h1>
+<h1 align="center">Hey! 👩🏻‍💻 I'm Romala Mishra</h1>
 <h3 align="center"> Computer Vision | Deep Learning | Robot Navigation | Human-Robot Interaction</h3>
 
 <p align="center">
