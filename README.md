@@ -28,7 +28,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me:
 - Currently a final-year **B.Tech** student in **Electronics and Instrumentation Engineering** at **NIT Rourkela**.  
 - Restoring vision, designing perception and guiding robots to understand the world.  
 - Happiest when a Python script compiles without errors.
@@ -37,7 +37,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -69,11 +69,6 @@
 
 
 ---
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=romalamishra&label=👀+Stalkers+Detected&color=red" alt="Profile views" />
-</p>
 
 <p align="center">
   Thanks for stopping by! May your loss be ever decreasing and your gradients always descending.
