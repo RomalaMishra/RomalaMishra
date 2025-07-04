@@ -2,8 +2,8 @@
 <h3 align="center"> Computer Vision | Deep Learning | Robot Navigation | Human-Robot Interaction</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1oy8s6e5XxJL6ZlU7-cZ8rcBL5CD75CHm/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #1E90FF;">
-    Resume
+  <a href="https://romalamishra.github.io/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #1E90FF;">
+    Website
   </a> | 
 
   <a href="www.linkedin.com/in/romala-mishra" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-flex; align-items: center; text-decoration: none;">
