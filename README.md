@@ -70,12 +70,6 @@
 
 ---
 
-<p align="center">
-  Thanks for stopping by! May your loss be ever decreasing and your gradients always descending.
-</p>
- 
-
----
 
 
 
