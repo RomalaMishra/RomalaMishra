@@ -29,7 +29,8 @@
 ---
 
 ## About Me:
-- Currently a final-year **B.Tech** student in **Electronics and Instrumentation Engineering** at **NIT Rourkela**.  
+- I am currently working at **Barclays** as a Software Engineer in Pune, India.
+- I did my **B.Tech** in **Electronics and Instrumentation Engineering** at **NIT Rourkela**.  
 - Restoring vision, designing perception and guiding robots to understand the world.  
 - Happiest when a Python script compiles without errors.
 
